@@ -54,7 +54,7 @@ http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2195/index&extension=m3u8
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2187/index&extension=m3u8
 #EXTINF:-1 tvg-name="MEDENiYYET" group-title="AZERBAYCAN YAYINLAR",Medeniyyet_TV 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2197/index&extension=m3u8
-#EXTINF:-1 tvg-name="ARB GUNESHD" group-title="AZERBAYCAN YAYINLAR",ARB Gunesh HD
+#EXTINF:-1 tvg-name="ARB GUNESHD" group-title="AZERBAYCAN YAYINLAR",ARB Günəş HD
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2189/index&extension=m3u8
 #EXTINF:-1 tvg-name="XAZARTV" group-title="AZERBAYCAN YAYINLAR",Xazar TV HD 
 http://0e770a63.ucomist.net/iptv/ZWZ54NWQ78NYQX/2199/index&extension=m3u8
@@ -92,7 +92,7 @@ http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2189/index.m3u8
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2190/index.m3u8
 #EXTINF:-1 tvg-name="Dunya TV AZ" group-title="AZERBAYCAN YAYINLAR",Dunya TV AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2192/index.m3u8
-#EXTINF:-1 tvg-name="CBC Sport" group-title="AZERBAYCAN YAYINLAR",CBC_Sport_HD_tv 
+#EXTINF:-1 tvg-name="CBC Sport TVHD" group-title="AZERBAYCAN YAYINLAR",CBC_Sport_HD_tv 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2193/index.m3u8
 #EXTINF:-1 tvg-name="Ictimai TV" group-title="AZERBAYCAN YAYINLAR",Ictimai TV
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2195/index.m3u8
@@ -106,13 +106,343 @@ http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2198/index.m3u8
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2199/index.m3u8
 #EXTINF:-1 tvg-name="Azad TV" group-title="AZERBAYCAN YAYINLAR",Azad TV
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/2200/index.m3u8
-#EXTINF:-1 tvg-name="AzTV" group-title="AZERBAYCAN YAYINLAR",AzTV
+#EXTINF:-1 tvg-name="AzTV" group-title="AZERBAYCAN YAYINLAR",Azərbaycan TV 
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/966/index.m3u8
-#EXTINF:-1 tvg-name="CBC AZ" group-title="AZERBAYCAN YAYINLAR",CBC AZ
+#EXTINF:-1 tvg-name="CBC TV HD group-title="AZERBAYCAN YAYINLAR",CBC AZ
 http://ce3b68a7.kazaktelekom.com/iptv/D4RBLXPNVWMY54/1050/index.m3u8
 #EXTINF:-1 tvg-name="AL ZAHRA TV" group-title="AZERBAYCAN YAYINLAR",AL ZAHRA TV
 http://live.al-zahratv.com/live/playlist.m3u8
 #EXTINF:-1 tvg-name="EL TV" group-title="AZERBAYCAN YAYINLAR",EL TV
 http://85.132.53.162:1935/live/eltv/chunklist.m3u8
+
+http://rtmp.apa.tv/@pagroup!23.m3u8(news) APA TV
+
+
+https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8 (General) West Azerbaijan TV
+
+
+https://lenz.splus.ir/PLTV/88888888/224/3221226800/index.m3u8 (General)Azerbaijan Gharbi
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV (general)Səhiyyə TV
+
+
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8.(General)
+Alvin Channel TV
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8 (General) XEZER TV HD AZ
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8 (General) XƏZƏR TV
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8(General) SPACE TV HD AZ
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8 (General) SPACE TV
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8 ( General)SPACE
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8(General) TMB AZƏRBAYCAN
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/tmb-azerbaycan.m3u8( General) TMB TV
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/vip.m3u8 ( General) VİP TV
+
+
+
+
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8 (news) ANEWZ
+
+https://53be5ef2d13aa.streamlock.net/cubesanewz-secure/smil:cubesanewz-secure-web.smil/playlist.m3u8 (News)anewZ
+
+
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8 ( General) Hadi TV Azeri and Russian(720p)
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV (General) Səhiyyə TV
+
+
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/mcj-tv-shop.m3u8( General) MCJ SHOP
+
+
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8 ( General) AZ STAR TV HD AZ
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan (General)  MTV AZƏRBAYCAN HD AZ
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=MTVAzerbaijan (General) MUZTV AZƏRBAYCAN
+
+
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8 (news) Baku TV HD AZ
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd?checkedby:hlscat.com (General) Ledir Azərbaycan TV_SD
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",LIDER TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45471?checkedby:hlscat.com (General)LEDİR TV HD AZ
+
+
+ (Sport) VİRTUAL SPORTS
+
+
+
+(sport) VİRTUAL SPORTS BL
+
+
+(sport) SPORT TV
+
+
+(Sport) SPORT TV 2
+
+
+
+(Sport) TVNET SPORT
+
+
+
+(General) ANGOR AZERBAİJAN
+
+
+
+114TV TV
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd?checkedby:hlscat.com NAXÇIVAN TV HD AZ
+
+
+
+REAKSIYA TV
+
+
+
+SHOWS PLUS TV
+
+
+
+SƏS TV
+
+
+
+MEDİA TURK
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",QƏBƏLƏ TV
+https://qebele.tv/live/stream/index.m3u8?checkedby:hlscat.com QƏBƏLƏ TV
+
+
+QAFQAZ TV
+
+
+TOPLUM TV
+
+
+
+İNTERAZ
+
+
+QLOBAL TV
+
+
+ARB CANUB
+
+
+
+ Kəpəz TV
+
+
+
+ARB ŞİMAL
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",GUNAZ TV
+GUNAZTV
+
+
+
+Xezer xeber
+
+
+Topaz 2
+
+
+Azercosmos porum
+
+
+
+ATV CİNEMA
+
+
+ATV VİVACE
+
+
+KANAL 35
+
+
+kanal 13
+
+
+meydan TV
+
+
+TV 36
+
+
+FTV
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd?checkedby:hlscat.com Arb_günəş_SD
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:hlscat.com Arb_SD
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd?checkedby:hlscat.com ARB_24_SD
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:hlscat.com
+ATV AZERBAİJAN HD
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd?checkedby:hlscat.com AZAD TV_SD
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby:hlscat.com ATV(1)
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 1
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8?checkedby:hlscat.com ATV(1)
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8?checkedby:hlscat.com ATV(2)
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="Undefined",ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8?checkedby:hlscat.com ATV(4)
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd?checkedby:hlscat.com  İctimai
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby:hlscat.com CBC Sport
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AzTV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd?checkedby:hlscat.com AzTV_SD
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd?checkedby:hlscat.com Mədəniyyət
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/17305?checkedby:hlscat.com İdman TV HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd?checkedby:hlscat.com İdman HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",DUNYA TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45469?checkedby:hlscat.com DUNYA TV HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd?checkedby:hlscat.com DUNYA TV
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=KanalS. Kanal S
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",GUNAZ TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45470?checkedby:hlscat.com  GUNAZ TV HD AZ
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",REAL TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45473?checkedby:hlscat.com REAL TV HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",CBC AZERBAYCAN HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/17312?checkedby:hlscat.com CBC AZERBAYCAN HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd?checkedby:hlscat.com CBC Azerbaijan
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=AZ_VIP VİP HD
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",REAL TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45473?checkedby:hlscat.com REAL TV HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd?checkedby:hlscat.com REAL TV
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AL ZAHRA TV
+http://live.al-zahratv.com/live/playlist.m3u8?checkedby:hlscat.com AL ZAHAR TV
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd?checkedby:hlscat.com AMC_SD
+
+
+
+https://www.tvkaista.net/stream-forwarder/get.php?x=SehiyyeTV SƏHİYYƏ TV
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MTV Azerbaycan HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45467?checkedby:hlscat.com MTV AZERBAYCAN HD AZ
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd?checkedby:hlscat.com MUZTV
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd?checkedby:hlscat.com DALGA TV SD
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",DALGA TV HD AZ
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/45468?checkedby:hlscat.com DALGA TV HD AZ
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",ELTV
+http://85.132.53.162:1935/live/eltv/chunklist_.m3u8?checkedby:hlscat.com ElTV
+
+
+
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd?checkedby:hlscat.com ANITV_SD
+
+STANSA SPORT 1
+
+
+STANSA SPORT 2
+
+
+STANSA SPORT +
+
+STANSA SPORT +
 
 
